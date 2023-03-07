@@ -1,0 +1,22 @@
+{
+  "name": "landinpagecaffe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elieldiniz/Creat-Coffee.git"
+  },
+  "keywords": [
+    "2JIWVQ9lHQnhUCmcoNcC9uG328i5tQxbUYqjwqMYzM4"
+  ],
+  "author": "Eliel Diniz De Matos Fantichelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elieldiniz/Creat-Coffee/issues"
+  },
+  "homepage": "https://github.com/elieldiniz/Creat-Coffee#readme"
+}
